@@ -1,0 +1,8 @@
+.orders-container{
+    
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin: 50px 30px;
+}
